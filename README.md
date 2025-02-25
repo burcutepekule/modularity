@@ -38,8 +38,9 @@ Once the matrices are saved, you can generate your own GIF file using the `GIF_l
 ## Example
 
 Here's an example of the output from a simulation:
-
-![Example Simulation]([https://raw.githubusercontent.com/username/modularity/main/example.gif](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkOJYoSRGrhfi8vxstYvST8ep2VUkACknUPOa8Z8tgaj1iqz2bBqpj3_3gLNPFQUXiKAc0JXdER1hIgsXKuYKISxCsUCdXGv_QtbfeV6hqQnbAIkDpE-wO8x_wi3APyWR_YOxmO21wjpPCXYFvq8OPW2HxzSKJFgFbkPwRQ1gPNd8jpa1J2sYaeVl5YzpD/s1600/circuitsAnimated_MVG_SEED_9-ezgif.com-speed.gif))
+<div align="center">
+<img src="https://github.com/burcutepekule/modularity/blob/main/local_output/circuitsAnimated_MVG_SEED_9-ezgif.com-speed.gif" width="65%" alt="Animated Circuit">
+</div>
 
 ## Contributing
 
