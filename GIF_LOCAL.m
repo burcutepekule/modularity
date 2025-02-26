@@ -1,8 +1,8 @@
 clear all;close all;clc;
-freqAlternate = 2;
+freqAlternate = 20;
 MVG           = 1;
 seedPick      = 9;
-inputSize     = 4;
+inputSize     = 6;
 folder_name   = fullfile('./local_output', ['freq_' num2str(freqAlternate)]);
 if(MVG==1)
     env_in='MVG';
